@@ -1,0 +1,14 @@
+{
+  "name": "plainspoken",
+  "description": "Plainspoken, a skill for clear and natural English",
+  "owner": {
+    "name": "Shiva Shrestha"
+  },
+  "plugins": [
+    {
+      "name": "plainspoken",
+      "source": "./",
+      "description": "Makes Claude write clear, natural English that sounds like a careful person wrote it."
+    }
+  ]
+}

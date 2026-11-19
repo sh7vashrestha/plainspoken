@@ -1,0 +1,12 @@
+{
+  "name": "plainspoken",
+  "description": "Makes Claude write clear, natural English that sounds like a careful person wrote it.",
+  "author": {
+    "name": "Shiva Shrestha",
+    "url": "https://github.com/sh7vashrestha"
+  },
+  "homepage": "https://github.com/sh7vashrestha/plainspoken",
+  "repository": "https://github.com/sh7vashrestha/plainspoken",
+  "license": "MIT",
+  "keywords": ["writing", "plain-english", "editing", "style"]
+}
